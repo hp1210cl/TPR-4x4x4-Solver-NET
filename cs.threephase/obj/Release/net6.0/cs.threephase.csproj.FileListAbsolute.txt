@@ -1,0 +1,15 @@
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Release\net6.0\cs.threephase.deps.json
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Release\net6.0\cs.threephase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Release\net6.0\cs.threephase.pdb
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Release\net6.0\cs.min2phase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Release\net6.0\cs.min2phase.pdb
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.csproj.AssemblyReference.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.AssemblyInfoInputs.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.AssemblyInfo.cs
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.csproj.CoreCompileInputs.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.csproj.CopyComplete
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\refint\cs.threephase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\cs.threephase.pdb
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Release\net6.0\ref\cs.threephase.dll

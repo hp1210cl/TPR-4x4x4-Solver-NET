@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfGk/2Ozt38fi5zPir5TbXmSa3FSsBs+ZXs9F2V47wG8fGMkOBNow37je1drcVUKcqVmN68FMCCaK5wVKf+JIQ==",
+  "success": true,
+  "projectFilePath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdp\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

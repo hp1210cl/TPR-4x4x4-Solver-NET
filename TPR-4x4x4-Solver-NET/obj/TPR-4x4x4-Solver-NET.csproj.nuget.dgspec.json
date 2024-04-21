@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET.csproj": {}
+  },
+  "projects": {
+    "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\cs.min2phase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\cs.min2phase.csproj",
+        "projectName": "cs.min2phase",
+        "projectPath": "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\cs.min2phase.csproj",
+        "packagesPath": "C:\\Users\\xdp\\.nuget\\packages\\",
+        "outputPath": "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xdp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj",
+        "projectName": "cs.threephase",
+        "projectPath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj",
+        "packagesPath": "C:\\Users\\xdp\\.nuget\\packages\\",
+        "outputPath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xdp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\cs.min2phase.csproj": {
+                "projectPath": "E:\\My Design\\2021\\CS0x7f\\min2phaseNET\\min2phaseNET\\cs.min2phase\\cs.min2phase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OptimizedPriorityQueue": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET.csproj",
+        "projectName": "TPR-4x4x4-Solver-NET",
+        "projectPath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET.csproj",
+        "packagesPath": "C:\\Users\\xdp\\.nuget\\packages\\",
+        "outputPath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\TPR-4x4x4-Solver-NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xdp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj": {
+                "projectPath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

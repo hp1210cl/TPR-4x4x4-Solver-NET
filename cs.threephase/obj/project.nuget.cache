@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzjtXsmuPW7gD/CEaqREgflT4BUDzVfp5bbmqtEUQzhPbGXuvnHmyfeCIAGExiB+4KafCzALu+V7YMC0cLF1Nw==",
+  "success": true,
+  "projectFilePath": "E:\\My Design\\2021\\CS0x7f\\TPR-4x4x4-Solver-NET\\cs.threephase\\cs.threephase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdp\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

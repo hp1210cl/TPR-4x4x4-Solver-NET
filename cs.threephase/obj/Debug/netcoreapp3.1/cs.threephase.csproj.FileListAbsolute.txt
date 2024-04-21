@@ -1,0 +1,12 @@
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Debug\netcoreapp3.1\cs.threephase.deps.json
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Debug\netcoreapp3.1\cs.threephase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Debug\netcoreapp3.1\cs.threephase.pdb
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Debug\netcoreapp3.1\cs.min2phase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\bin\Debug\netcoreapp3.1\cs.min2phase.pdb
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.csprojAssemblyReference.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.AssemblyInfoInputs.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.AssemblyInfo.cs
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.csproj.CoreCompileInputs.cache
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.csproj.CopyComplete
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.dll
+E:\My Design\2021\CS0x7f\TPR-4x4x4-Solver-NET\cs.threephase\obj\Debug\netcoreapp3.1\cs.threephase.pdb
